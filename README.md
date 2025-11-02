@@ -83,5 +83,5 @@ Simple yet fun mini game experiments.
 ## 📬 Contact
 
 📧 **Email:** [oguuzw@gmail.com](mailto:oguuzw@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/oğuz-koçak](#)  
+💼 **LinkedIn:** [www.linkedin.com/in/oğuz-koçak](#)  
 🌐 **GitHub:** [github.com/oguuzw](https://github.com/oguuzw)
