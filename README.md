@@ -49,9 +49,13 @@ Simple yet fun mini game experiments.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,git,github,linux,vscode,intellij)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,git,github,linux,vscode)](https://skillicons.dev)
+
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="48" height="48" alt="IntelliJ IDEA"/>
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg" width="48" height="48" alt="CLion"/>
 
 </div>
+
 
 ---
 
