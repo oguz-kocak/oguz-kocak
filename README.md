@@ -14,12 +14,12 @@ Currently learning **Python, Scikit-learn, and TensorFlow**.
 
 | Area                      | Technologies                               |
 | :------------------------ | :----------------------------------------- |
-| **Programming Languages** | ![](images/c.png) ![](images/cpp.png) ![](images/java.png) ![](images/python.png)  ![](images/sql.png) |               |
-| **Tools**                 | ![](images/visual-studio.png) ![](images/intellij-idea.png)  ![](images/git.png)   |
+| **Programming Languages** | ![](c.png) ![](cpp.png) ![](java.png) ![](python.png)  ![](sql.png) |               |
+| **Tools**                 | ![](visual-studio.png) ![](intellij-idea.png)  ![](git.png)   |
 
 <br>
 
 ## Contact
- <img src="images/email.png" width="32" align="middle" />  [oguuzw@gmail.com](mailto:oguuzw@gmail.com) 
+ <img src="email.png" width="32" align="middle" />  [oguuzw@gmail.com](mailto:oguuzw@gmail.com) 
 
-<img src="images/linkedin.png" width="32" align="middle" />  [www.linkedin.com/in/oğuz-koçak](https://www.linkedin.com/in/oğuz-koçak) 
+<img src="linkedin.png" width="32" align="middle" />  [www.linkedin.com/in/oğuz-koçak](https://www.linkedin.com/in/oğuz-koçak) 
